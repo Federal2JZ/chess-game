@@ -14,7 +14,7 @@ A simple and interactive chess game created using HTML, CSS, and JavaScript. Thi
 
 ## Demo
 
-![Chess Game Screenshot](image.png)
+![Chess Game Screenshot](GameScreenshot.png)
 
 ## Features
 
